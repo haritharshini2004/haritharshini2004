@@ -15,44 +15,62 @@ const hariTharshini = {
   pronouns: "she" | "her",
   role: "Software Engineer",
   company: "Hudsmer Business Solutions Pvt Ltd",
+  education: "B.Sc in Information Technology",
+  location: "Chennai, Tamil Nadu, India",
   passions: [
     "Building efficient software",
     "Creating scalable solutions",
     "Designing modern UIs",
-    "Automation tools"
+    "Automation tools",
+    "Problem solving"
   ],
   currentFocus: [
     "Enterprise React + Django solutions",
     "Reusable UI component libraries",
-    "Intelligent automation tools"
+    "Intelligent automation tools",
+    "Full-stack development"
   ]
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### 💻 **Frontend**
+### 💻 **Frontend & Mobile**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ **Backend**
+### ⚙️ **Backend & Databases**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Djoser](https://img.shields.io/badge/Djoser-FF6B6B?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🗄️ **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ **Tools & Technologies**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+### 🔧 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🚀 **Technologies & Concepts**
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EC1C24?style=for-the-badge&logo=oauth&logoColor=white)
+![Agile Methodology](https://img.shields.io/badge/Agile-0096D6?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
 ---
 
@@ -60,7 +78,8 @@ const hariTharshini = {
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=haritharshini2004&show_icons=true&theme=react&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haritharshini2004&show_icons=true&theme=react&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haritharshini2004&layout=compact&theme=react&hide_border=true" height="165" />
   
 </div>
 
@@ -72,22 +91,28 @@ const hariTharshini = {
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Projects & Experience
 
-### 🔥 **Enterprise Solutions**
-- Building scalable React + Django applications
-- Microservices architecture implementation
-- Real-time data processing systems
+### 💼 **Professional Experience**
+**Software Engineer** at Hudsmer Business Solutions Pvt Ltd
+- Full-stack development using React, Django, and PostgreSQL
+- Building scalable web applications and RESTful APIs
+- Mobile app development with React Native
+- Database design and optimization
 
-### 🎨 **UI Component Libraries**
-- Design system development
-- Reusable React components
-- Accessibility-focused UI patterns
+### 🔥 **Current Focus Areas**
+- **Enterprise Solutions**: Building scalable React + Django applications
+- **UI/UX Development**: Creating reusable component libraries and design systems
+- **Mobile Development**: Cross-platform apps with React Native
+- **Backend Architecture**: REST APIs, authentication, and database design
+- **Automation Tools**: Business process automation and workflow systems
 
-### ⚡ **Automation Tools**
-- Business process automation
-- Intelligent workflow systems
-- Productivity enhancement tools
+### 🎯 **Technical Expertise**
+- **Frontend Development**: React.js, React Native, modern JavaScript/TypeScript
+- **Backend Development**: Django, Node.js, Express.js, REST APIs
+- **Database Management**: PostgreSQL, MySQL, MongoDB
+- **Tools & Methodologies**: Git, Docker, Agile/Scrum, CI/CD
+- **UI/UX Design**: Responsive design, user experience optimization
 
 ---
 
@@ -95,13 +120,23 @@ const hariTharshini = {
 
 <!--START_SECTION:waka-->
 ```text
-React           ██████████████░░░░░░░   65%
-Django          ██████████░░░░░░░░░░░   50%
-Node.js         ████████░░░░░░░░░░░░░   40%
-TypeScript      ██████░░░░░░░░░░░░░░░   30%
+React           ██████████████░░░░░░░   70%
+Django          ████████████░░░░░░░░░   60%
+JavaScript      ███████████████░░░░░░   75%
 Python          ████████████░░░░░░░░░   60%
+TypeScript      ████████░░░░░░░░░░░░░   40%
+PostgreSQL      █████████░░░░░░░░░░░░   45%
 ```
 <!--END_SECTION:waka-->
+
+---
+
+## 🏆 Certifications & Achievements
+
+- **Python for Everybody** - University of Michigan
+- **React Development** - Various online certifications
+- **Full Stack Development** - Self-taught expertise
+- **Agile Methodology** - Professional experience
 
 ---
 
@@ -117,6 +152,9 @@ Python          ████████████░░░░░░░░░ 
   <a href="mailto:haritharshini@hudsmersolutions.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/haritharshini2004">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -125,7 +163,9 @@ Python          ████████████░░░░░░░░░ 
   
   ![Visitors](https://komarev.com/ghpvc/?username=haritharshini2004&color=blue&style=flat-square)
   
-  ⭐️ *From [haritharshini2004](https://github.com/haritharshini2004)*
+  ⭐️ **Open to collaborating on interesting projects and new opportunities**
+  
+  *From [haritharshini2004](https://github.com/haritharshini2004)*
   
 </div>
 
@@ -136,3 +176,7 @@ Python          ████████████░░░░░░░░░ 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
+
+---
+
+**Note**: This README is dynamically updated with my latest skills and projects. Feel free to reach out for collaborations or discussions about software development! 🚀
